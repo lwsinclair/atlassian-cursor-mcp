@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/solidus-atlassian-cursor-mcp-badge.png)](https://mseep.ai/app/solidus-atlassian-cursor-mcp)
+
 # Atlassian MCP для Cursor IDE
 
 Managed Code Plugin (MCP) для Cursor IDE, обеспечивающий интеграцию с продуктами Atlassian: JIRA, Confluence и BitBucket.
